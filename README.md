@@ -1,16 +1,36 @@
-## Hi there 👋
+# Даниил Клочков - Python Backend Developer
 
-<!--
-**kldaniil/kldaniil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Специализация:** Python, Django, DRF, FastAPI, PostgreSQL, Docker  
 
-Here are some ideas to get you started:
+## Контакты
+- Email: kldaniil@gmail.com  
+- Телеграм: @Danklkv  
+- GitHub: github.com/kldaniil  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## О себе
+С 2024 года развиваюсь в направлении Python backend. Создаю REST API, работаю с базами данных, настраиваю CI/CD, использую Docker и Git.
+
+## Основные навыки
+- **Backend:** Python, Django, Django REST Framework, FastAPI, Flask  
+- **Базы данных:** PostgreSQL, SQLAlchemy  
+- **Инструменты:** Docker, Git, Linux  
+
+## Проекты
+
+### Проектная работа
+- **Сервис бронирования мест в кафе**  
+  Разработка схемы данных, домен пользователей и аутентификации, домен бронирований. Работа с валидацией и бизнес-логикой. **Технологии:** FastAPI, Pydantic, SQLAlchemy.  
+
+- **Сервис распределения пожертвований**  
+  Реализация бэкенда с разделением на слои (бизнес-логика, работа с данными, маршруты), внедрение инъекции зависимостей. **Технологии:** FastAPI, Pydantic, SQLAlchemy.  
+
+- **Сервис с рецептами**  
+  Разработка бэкенда и настройка CI/CD. Работа с REST API и авторизацией пользователей. **Технологии:** Django, DRF, Docker.  
+
+- **Сервис отзывов на произведения**  
+  Разработка домена пользователей, аутентификация и авторизация, работа с REST API. **Технологии:** Django, DRF.  
+
+### Ранее
+- Разработка и сопровождение сайтов и форумов на PHP/MySQL, HTML, CMS.  
+- Интеграция платёжных систем, базовая настройка серверной среды, поддержка пользователей.  
+- Опыт работы с клиентами и сопровождение проектов, включая устранение технических сбоев.  
