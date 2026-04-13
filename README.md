@@ -1,35 +1,68 @@
 # Даниил Клочков | Python Backend Developer
 
-Инженер с 10-летним опытом в администрировании и поддержке веб-инфраструктуры. Перешел в разработку на Python, объединяя навыки настройки серверов с созданием современной бизнес-логики.
+Python Backend Developer с сильной базой в backend-разработке и многолетним опытом сопровождения веб-проектов и серверной инфраструктуры.
 
-### 🛠 Стек технологий:
-- **Languages & Frameworks:** Python (3.12+), FastAPI, Django, DRF.
-- **Databases & ORM:** PostgreSQL, SQLAlchemy 2.0, Alembic, Django ORM.
-- **DevOps & Tools:** Docker, Docker Compose, Linux (Nginx, Bash), Git, GitHub Actions (CI/CD).
-- **Other:** JWT, Pydantic, REST API.
+Разрабатываю REST API на Django, DRF и FastAPI, проектирую бизнес-логику, схемы данных и пользовательские сценарии. Опыт эксплуатации production-систем помогает мне учитывать надежность, поддержку и реальные сценарии использования уже на этапе проектирования.
 
----
-
-### 🚀 Сейчас в работе (Team Project):
-**MVP Музыкальной платформы** (Django 5.2, DRF, PostgreSQL)
-*Разработка бэкенда для сервиса дистрибуции контента и мерча.*
-- Проектирую архитектуру базы данных и эндпоинты для работы с доменом пользователей.
-- Стек: Django 5.2, PostgreSQL, Docker.
+### 🛠 Стек технологий
+- **Languages & Frameworks:** Python (3.12+), Django, Django REST Framework, FastAPI
+- **Databases & ORM:** PostgreSQL, SQLAlchemy 2.0, Alembic, Django ORM
+- **DevOps & Tools:** Docker, Docker Compose, Linux, Nginx, Git, GitHub Actions (CI/CD)
+- **Other:** REST API, JWT, Pydantic, CI/CD
 
 ---
 
-### 📁 Основные проекты:
+### 🚀 Сейчас в работе (Team MVP Project)
+**Музыкальная платформа (MVP)** — backend для сервиса дистрибуции цифрового контента и мерча.
 
-*   **[API для бронирования мест в кафе](https://github.com/kldaniil/fastapi-cafe-booking-api)** (FastAPI, SQLAlchemy 2.0, Pydantic)
-    *   Командная разработка. Реализовал логику бронирования, схему валидации данных и работу с пользователями. 
-*   **[API фонда пожертвований](https://github.com/kldaniil/QRkot_spreadsheets)** (FastAPI, SQLAlchemy, Alembic)
-    *   Реализовал проект с разделением на слои (бизнес-логика, доступ к данным, роуты) и внедрил инъекцию зависимостей (DI).
-*   **[Сервис рецептов (Foodgram)](https://github.com/kldaniil/foodgram)** (Django, DRF, Docker, CI/CD)
-    *   Бэкенд для социальной сети рецептов. Настроил автоматический деплой через GitHub Actions на удаленный сервер.
+Моя зона ответственности:
+- проектирование схем данных для пользователей, ролей и профилей
+- разработка authentication / authorization flow
+- реализация API для пользовательских сценариев
+- проработка бизнес-логики и ограничений на уровне БД
+- участие в архитектурных решениях MVP в условиях нечетких требований
+
+**Стек:** Django 5.2, DRF, PostgreSQL, Docker
 
 ---
 
-### 📫 Контакты:
-- **Telegram:** [@Danklkv](https://t.me)
+### 📁 Основные проекты
+
+#### [API для бронирования мест в кафе](https://github.com/kldaniil/fastapi-cafe-booking-api)
+**FastAPI, SQLAlchemy 2.0, Pydantic**
+
+Командная разработка.  
+Отвечал за:
+- работу с пользователями
+- схему данных
+- валидацию и логику бронирований
+
+---
+
+#### [API фонда пожертвований](https://github.com/kldaniil/QRkot_spreadsheets)
+**FastAPI, SQLAlchemy, Alembic**
+
+Реализовал:
+- разделение на слои (роуты / бизнес-логика / data access)
+- dependency injection
+- логику распределения пожертвований
+
+---
+
+#### [Foodgram](https://github.com/kldaniil/foodgram)
+**Django, DRF, Docker, CI/CD**
+
+Backend для социальной сети рецептов.
+
+Сделал:
+- backend API
+- Docker-инфраструктуру
+- CI/CD и автодеплой через GitHub Actions
+- деплой на удаленный Linux-сервер
+
+---
+
+### 📫 Контакты
+- **Telegram:** [@Danklkv](https://t.me/Danklkv)
 - **Email:** kldaniil@gmail.com
-- **Резюме:** [на HH.ru](https://github.com/kldaniil/kldaniil/blob/main/%D0%9A%D0%BB%D0%BE%D1%87%D0%BA%D0%BE%D0%B2%20%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB.pdf?raw=true)
+- **Резюме:** [PDF](https://github.com/kldaniil/kldaniil/blob/main/%D0%9A%D0%BB%D0%BE%D1%87%D0%BA%D0%BE%D0%B2%20%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB.pdf?raw=true)
